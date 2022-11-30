@@ -43,10 +43,14 @@
                 android:elevation="5dp"
                 app:cardCornerRadius="20dp">
 
-                <LinearLayout
+<!--                <LinearLayout-->
+<!--                    android:layout_width="match_parent"-->
+<!--                    android:layout_height="match_parent"-->
+<!--                    android:background="@drawable/addpost" />-->
+                <ImageView
                     android:layout_width="match_parent"
                     android:layout_height="match_parent"
-                    android:background="@drawable/addpost" />
+                    android:src="@drawable/addpost"/>
             </androidx.cardview.widget.CardView>
 
 
@@ -123,10 +127,10 @@
                 android:elevation="5dp"
                 app:cardCornerRadius="20dp">
 
-                <LinearLayout
+                <ImageView
                     android:layout_width="match_parent"
                     android:layout_height="match_parent"
-                    android:background="@drawable/customer_care" />
+                    android:src="@drawable/customer_care"/>
             </androidx.cardview.widget.CardView>
 
             <TextView
