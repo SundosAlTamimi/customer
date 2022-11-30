@@ -11,6 +11,8 @@
         android:theme="@style/Theme.Customer_registeration">
         <activity
             android:name=".AddFeedback"
+            android:theme="@style/Theme.MaterialComponents.Light.NoActionBar"
+            android:windowSoftInputMode="adjustPan|adjustResize"
             android:exported="false" />
         <activity
             android:name=".MainActivity"
