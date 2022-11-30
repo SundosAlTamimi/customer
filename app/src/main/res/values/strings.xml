@@ -1,3 +1,15 @@
 <resources>
     <string name="app_name">customer_registeration</string>
+
+    <string name="feed1"> How would you rate the booking process and did you get your preferred appointment time?</string>
+    <string name="feed2"> How would you rate the appearance and atmosphere of the reception area?</string>
+    <string name="feed3"> How would you rate the manner and helpfulness of our staff?</string>
+    <string name="feed4"> How would you rate the appearance and comfort of our treatment rooms?</string>
+    <string name="feed5"> How would you rate your treatment experience?</string>
+    <string name="Excellent">    Excellent</string>
+    <string name="Good">   Good</string>
+    <string name="Poor"> Poor</string>
+    <string name="VeryPoor"> Very Poor</string>
+    <string name="Thank"> Thank you so much for taking the time to fill out this client feedback form we appreciate your honesty and will use the information obtained to help push our business forward and ultimately to improve our treatments and service to you, as without you we do not have a business</string>
+
 </resources>
