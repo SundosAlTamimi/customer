@@ -12,9 +12,9 @@
     <color name="white_dark">#E9FFFFFF</color>
     <color name="white">#97FFFEFE</color>
     <color name="white_two">#85E4DCDC</color>
-
+    <color name="layer7">#EBF8F8F7</color>
     <color name="gray2">#B9CE98E2</color>
-
+    <color name="main_bg">#E5E5E5</color>
     <color name="red">#801717</color>
     <color name="green">#103601</color>
     <color name="black">#000000</color>
